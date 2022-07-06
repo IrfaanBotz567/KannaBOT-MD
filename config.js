@@ -58,16 +58,16 @@ global.psaweria = 'https://saweria.co/BaraXDz'
 /*============== NOMOR ==============*/
 global.nomorbot = '6289531704997'
 global.nomorown = '6281646829895'
-global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.namebot = 'AlfaraBotz【﻿ＸｘＹｚ】'
+global.nameown = 'IrfaanXD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['6281646829895'],
+  ['6289531704997'],
+  ['6285624823115'],
+  ['6289531704997', 'AlfaraBotz【﻿ＸｘＹｚ】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,18 +112,18 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee-Md【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ BotzzMee-Md¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm = 'AlfaraBotz【﻿ＸｘＹｚ】' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ AlfaraBotz¨˜ˆ”°⍣~•⊹٭„¸'
 global.wm3 = '☘︎ ʙᴏᴛᴢᴢᴍᴇᴇ-MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ 𝗕𝗮𝗿𝗮𝗫𝗗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Irfaan𝗫𝗗 ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6048ec3e029520424c234.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
+global.thumb = 'https://telegra.ph/file/b5334d24bc502b2958339.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/b5334d24bc502b2958339.jpg'
 global.giflogo = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
 global.thumbs = ['https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
